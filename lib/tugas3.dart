@@ -40,7 +40,7 @@ class MyHomePage extends StatelessWidget {
         children: [
           const SizedBox(height: 50),
           const Text(
-            "Malang",
+            "Singao°pura",
             style: TextStyle(fontSize: 40, fontWeight: FontWeight.w500),
           ),
           const SizedBox(height: 90),
